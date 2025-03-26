@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 28%;
+    background-color:white;
+    padding: 50px ;
+    margin: 0 auto;
+    border-radius: 20px;
+    height: 350px;
+    margin-top: 280px;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-decoration: none;
+    text-align: center;
+}
+body{
+    background-color: #9c07c1 ;
+}
+.header{
+    text-align: center;
+}
+.form-group{
+    width:95%;
+    padding: 10px;
+}
+.label{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+.input{
+    width:98%;
+    height: 35px;
+    border-radius: 6px;
+   outline: none;
+}
+.button{
+    background-color: blue;
+    color: white;
+    width: 70%;
+    height: 40px;
+    outline: none;
+    margin-top: 10px;
+ border-radius: 4px;
+   border: none;
+   font-size: 19px;
+   margin-left: 50px;
+   margin-top: 15px;
+}
+.button:hover{
+background-color: chocolate;
+}
+::placeholder{
+
+    color: gray;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fre {
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+padding-left: 100px;
+
+
+}
+.fre a{
+    text-align: center;
+    margin-top: 208px;
+}
+.a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
